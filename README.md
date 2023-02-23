@@ -1,9 +1,10 @@
-# Kumpulan link download Adobe Acrobat Pro DC (Editor PDF)
+# List Adobe Acrobat Pro DC (Editor PDF)
+
 ## Adobe Acrobat 64 bit
-* [Download versi 2022.003.20310](https://drive.google.com/drive/folders/1Kj3XiRAyqVNxslGWK8YDhsAcSdw3F0TK)
+* [Download versi 2022.003.20310](https://drive.google.com/file/d/1GS3989zlaOmQhWisU8TGn-TQpl_GvgJw/view?usp=sharing)
 
 ## Adobe Acrobat 32 bit
-* [Download versi 2022.002.20212](https://drive.google.com/drive/folders/1Kj3XiRAyqVNxslGWK8YDhsAcSdw3F0TK)
+* [Download versi 2022.002.20212](https://drive.google.com/file/d/124hEvV38_QfRlJEzcTG0en7D9SUF06mv/view?usp=sharing)
 
 # Kontribusi | Mau bertanya?
 Jangan lupa follow media Sosial kami <br>
